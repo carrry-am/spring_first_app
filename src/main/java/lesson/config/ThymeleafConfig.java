@@ -6,6 +6,9 @@ import org.thymeleaf.spring4.SpringTemplateEngine;
 import org.thymeleaf.spring4.view.ThymeleafViewResolver;
 import org.thymeleaf.templateresolver.ServletContextTemplateResolver;
 
+/**
+ * Thmeleafの設定
+ */
 @Configuration
 public class ThymeleafConfig {
 
